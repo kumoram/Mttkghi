@@ -1,10 +1,10 @@
 title: AndoAlpha
 subtitle: Site of AndoAlpha
 description: Unnamed ando robot
-keywords: null
+keywords: aa
 author: AndoAlpha
-language: kr
-timezone: ""
+language: fr
+timezone: Etc/GMT+7
 url: https://kumoram.github.io/Mttkghi
 permalink: :title/
 permalink_defaults: null
